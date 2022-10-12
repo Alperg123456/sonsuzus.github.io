@@ -1,0 +1,9 @@
+ad = input('ana karakterin adını giriniz : ')
+yer = input('olayın geçeceği yeri belirleyiniz : ')
+arkadas = input('karakterin arkadaşının adını giriniz : ')
+silah = input('bir silah seçiniz : ')
+zaman = input('yıl giriniz : ')
+utanmaz = input('bir kötü karakter giriniz : ')
+print(ad,'adlı kişi arkadaşı',arkadas,'ile',yer,'da',zaman,'yılında geziyormuş. Aniden arkadan gelen',utanmaz,'adlı kişi onlara yaklaşıp',ad,'adlı kişinin ensesine vurur.'
+,ad,'ve',arkadas,'çok sinirlenir. Ona vurmak için döndüklerinde, elinde',silah,'bulunduran azılı bir suçlu olduğunu görürler. ELinde',silah,'bulunduran',utanmaz,', onlara',silah
+,'ile saldırır. Sonuç olarak',ad,'ve',arkadas,'ölür.',utanmaz,'ise hayatına krallar gibi devam eder.')
